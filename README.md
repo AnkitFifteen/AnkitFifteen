@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @AnkitFifteen
-- 👀 I’m interested in 
+- 👀 I’m interested in &#2625;
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me [Text Here](http://quicktext.chatango.com/)
 
-- 😄 Pronouns: 
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: 
 
 <!---
