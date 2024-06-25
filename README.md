@@ -5,7 +5,7 @@
 - 📫 How to reach me [Text Here](http://quicktext.chatango.com/)
 
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: 
+- ⚡ Fun fact: Bees can fly higher than Mount Everest.
 
 <!---
 AnkitFifteen/AnkitFifteen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
