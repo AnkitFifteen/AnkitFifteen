@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AnkitFifteen
 - 👀 I’m interested in ☥
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me [Text Here](http://quicktext.chatango.com/)
+- 🌱 I’m currently learning new projects
+- 💞️ I’m looking to collaborate on [Replit](https://replit.com/)
+- 📫 How to reach me? [Text Here](http://quicktext.chatango.com/)
 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Bees can fly higher than Mount Everest.
