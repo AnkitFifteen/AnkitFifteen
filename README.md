@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnkitFifteen
 - 👀 I’m interested in ☥
 - 🌱 I’m currently learning new projects
-- 💞️ I’m looking to collaborate on [Replit](https://replit.com/)
+- 💞️ I’m looking to collaborate on [Replit](https://replit.com/@HiAnkitV)
 - 📫 How to reach me? [Text Here](http://quicktext.chatango.com/)
 
 - 😄 Pronouns: he/him
